@@ -1,0 +1,20 @@
+{
+  "name": "stegosaw",
+  "version": "1.0.0",
+  "description": "Proof of concept steganography for HTML files",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec test"
+  },
+  "keywords": [
+    "steganography",
+    "stego",
+    "encryption"
+  ],
+  "author": "Christopher Giffard <christopher.giffard@cgiffard.com>",
+  "license": "BSD",
+  "devDependencies": {
+    "chai": "^2.2.0",
+    "mocha": "^2.2.4"
+  }
+}
